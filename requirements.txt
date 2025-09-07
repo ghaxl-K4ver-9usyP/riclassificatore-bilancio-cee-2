@@ -1,3 +1,6 @@
 streamlit
 pandas
 openpyxl
+PyPDF2==3.0.1
+pdfminer.six==20221105
+chardet==5.2.0
