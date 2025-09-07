@@ -1,0 +1,24 @@
+[theme]
+# Colori personalizzati per il tema
+primaryColor = "#667eea"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+# Limite upload file (in MB)
+maxUploadSize = 200
+
+# Abilita CORS
+enableCORS = false
+
+# Abilita XSS protection
+enableXsrfProtection = true
+
+# Porta (per sviluppo locale)
+port = 8501
+
+[browser]
+# Disabilita raccolta statistiche
+gatherUsageStats = false
